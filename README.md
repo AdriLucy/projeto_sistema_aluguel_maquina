@@ -50,6 +50,9 @@ O **Sistema de Aluguel de Máquinas** é uma plataforma online projetada para fa
 - Uma avaliação está associada a **um único usuário** e **uma única máquina** (M:1 entre Avaliação e Usuário, M:1 entre Avaliação e Máquina).
 - A equipe de suporte pode estar associada a **zero ou muitos aluguéis** para fornecer assistência (1:N entre Equipe de Suporte e Aluguel).
 
+### Visualisar diagramas
+- Para visualizar os diagramas de MER, DER e de classe, basta fazer download dos arquivos `Diagrama de entidade-relacionamento.docx` e `Modelo_de_classe_Case.docx` disponível no repositório!
+
 ## Tecnologias Utilizadas
 
 - **Java**: Desenvolvimento do backend do sistema.
