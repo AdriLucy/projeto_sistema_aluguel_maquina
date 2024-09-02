@@ -2,14 +2,14 @@
 
 ## Descrição do Projeto
 
-Este projeto foi desenvolvido para as disciplinas de **Programação Orientada a Objetos** e **Laboratório de Banco de Dados** do curso de **Tecnologia em Análise e Desenvolvimento de Sistemas (3º Semestre)**. O objetivo principal é criar um sistema completo de aluguel de máquinas, desde a modelagem de dados até o desenvolvimento do backend em Java.
+Este projeto foi desenvolvido para as disciplinas de **Programação Orientada a Objetos** e **Laboratório de Banco de Dados** do curso de **Tecnologia em Análise e Desenvolvimento de Sistemas (3º Semestre)**. O objetivo principal é criar um sistema completo de aluguel de máquinas, desde a modelagem de dados até o desenvolvimento do backend básico das classes em Java.
 
 ## Objetivos
 
 - Construir um Modelo de Entidade Relacional (MER).
 - Criar um Diagrama de Entidade Relacional (DER) e um Diagrama de Classes.
 - Construir as tabelas no MySQL e inserir dados.
-- Desenvolver o backend do sistema em Java.
+- Desenvolver o backend básico das classes em Java.
 
 ## Descrição do Sistema
 
