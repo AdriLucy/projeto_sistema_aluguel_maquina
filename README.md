@@ -61,7 +61,7 @@ O **Sistema de Aluguel de Máquinas** é uma plataforma online projetada para fa
 
 ## Estrutura do Projeto
 
-- `src/`: Código-fonte do backend em Java.
+- `src/`: Código-fonte do backend em Java, onde estão as classes construidas.
 - `docs/`: Documentação do projeto, incluindo diagramas e modelos de entidade-relacional.
 - `sql/`: Scripts SQL para criação de tabelas e inserção de dados no MySQL.
 
