@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto foi desenvolvido para as disciplinas de **Programação Orientada a Objetos** e **Laboratório de Banco de Dados** do curso de **Tecnologia em Análise e Desenvolvimento de Sistemas (3º Semestre)**. O objetivo principal é criar um sistema completo de aluguel de máquinas, desde a modelagem de dados até o desenvolvimento do backend básico das classes em Java.
+Este projeto foi desenvolvido para as disciplinas de **Programação Orientada a Objetos** e **Laboratório de Banco de Dados** do curso de **Tecnologia em Análise e Desenvolvimento de Sistemas (3º Semestre)**. O objetivo principal é criar as classes de aluguel de máquinas, desde a modelagem de dados até o desenvolvimento do backend básico das classes em Java.
 
 ## Objetivos
 
@@ -51,7 +51,7 @@ O **Sistema de Aluguel de Máquinas** é uma plataforma online projetada para fa
 - A equipe de suporte pode estar associada a **zero ou muitos aluguéis** para fornecer assistência (1:N entre Equipe de Suporte e Aluguel).
 
 ### Visualisar diagramas
-- Para visualizar os diagramas de MER, DER e de classe, basta fazer download dos arquivos `Diagrama de entidade-relacionamento.docx` e `Modelo_de_classe_Case.docx` disponível no repositório!
+- Para visualizar os diagramas de MER, DER e de classe, basta fazer download dos arquivos `Diagrama de entidade-relacionamento.docx` e `Modelo_de_classe_Case.docx` disponível no repositório `docs/`!
 
 ## Tecnologias Utilizadas
 
@@ -69,4 +69,4 @@ O **Sistema de Aluguel de Máquinas** é uma plataforma online projetada para fa
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/nome-do-repositorio.git
+   git clone https://github.com/AdriLucy/projeto_sistema_aluguel_maquina.git
