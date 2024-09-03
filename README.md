@@ -22,6 +22,8 @@ O **Sistema de Aluguel de Máquinas** é uma plataforma online projetada para fa
 - **Avaliação e Feedback**: Sistema de avaliação para garantir a qualidade e segurança dos equipamentos.
 - **Suporte ao Cliente**: Equipe de suporte disponível para assistência técnica e atendimento ao cliente.
 
+OBS: Apesar das funcionalidades do sistema, esse projeto consiste apenas na criação das classes, classesDAO, e instanciamento de objetos com MySQL
+
 ## Modelagem de Dados
 
 ### Entidades e Atributos
@@ -55,7 +57,7 @@ O **Sistema de Aluguel de Máquinas** é uma plataforma online projetada para fa
 
 ## Tecnologias Utilizadas
 
-- **Java**: Desenvolvimento do backend do sistema.
+- **Java**: Desenvolvimento das classes do backend do sistema.
 - **MySQL**: Modelagem e gerenciamento do banco de dados.
 - **UML**: Criação de diagramas de classes e diagramas de entidade relacional.
 
